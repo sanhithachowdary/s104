@@ -1,3 +1,0 @@
-"HI GIT"  
-Welcome to git
-
